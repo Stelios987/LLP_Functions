@@ -7,4 +7,4 @@ The functions.py file holds all the major functions used throughout the project.
 # Explanation
 Explanations and results are in my paper and slideshow linked below: <br>
 [Investigating Herpesvirus Infections_ Modeling PPIs and Using Network Dynamics Stylianos Damianakis.pdf](https://github.com/Stelios987/LLP_Functions/files/12570070/Investigating.Herpesvirus.Infections_.Modeling.PPIs.and.Using.Network.Dynamics.Stylianos.Damianakis.pdf)<br>
-[Herpesvirus Investigation Capstone Presentation Stelios Damianakis.pdf](https://github.com/Stelios987/LLP_Functions/files/12570095/Herpesvirus.Investigation.Capstone.Presentation.Stelios.Damianakis.pdf)
+[Herpesvirus Investigation Presentation Stelios Damianakis.pdf](https://github.com/stylianosdamianakis/LLP-Functions/files/13878997/Herpesvirus.Investigation.Presentation.Stelios.Damianakis.pdf)
